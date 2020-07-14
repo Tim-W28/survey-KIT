@@ -1,2 +1,2 @@
 # survey-KIT
-Survey Jemaat
+Survey Jemaat yang terintegrasi untuk semua Kebaktian dan Bidang
